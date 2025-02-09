@@ -1,3 +1,5 @@
+# Machine Learning Trading Strategies Examples
+
 Welcome to my collection of machine learning trading strategy examples! This folder contains simple demonstration files that showcase the types of trading strategies I can develop using machine learning. Please note that these examples are for illustrative purposes only and **are not** the strategies I use for live trading. I have the capability to build much more sophisticated systems.
 
 ---
@@ -11,7 +13,7 @@ Welcome to my collection of machine learning trading strategy examples! This fol
   - **Scripts and Notebooks:**  
     You'll find Python scripts and Jupyter notebooks demonstrating different methods and techniques in trading strategy development.
   - **Data Samples:**  
-    Any sample data provided is solely for demonstration and testing purposes.
+     Any sample data provided is solely for demonstration and testing purposes. The historical data used in these examples was downloaded from Binance through their API.
 
 ---
 
@@ -24,4 +26,4 @@ Welcome to my collection of machine learning trading strategy examples! This fol
   Nothing in this repository should be construed as financial or investment advice. Always do your own research before using any trading strategy.
 
 - **Complexity:**  
-  The examples here are intentionally simple. I am fully capable of creating and deploying far more complex and robust trading systems as needed.
+  The examples here are intentionally simple. I am fully capable of developing and deploying far more complex trading systems as needed.
