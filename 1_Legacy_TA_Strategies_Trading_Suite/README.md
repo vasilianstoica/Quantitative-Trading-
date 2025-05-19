@@ -51,9 +51,3 @@ The system supports real-time trade triggers based on signal confluence, positio
 - These strategies are for **educational and research** purposes. They represent simplified rule-based trading logic, which may no longer perform in production markets.
 - API keys and sensitive credentials should be stored securely and **not hardcoded** in production deployments.
 - Real capital trading should only be done with sufficient safeguards, risk controls, and robust infrastructure.
-
----
-
-## License
-
-This project is shared for non-commercial and educational purposes.
