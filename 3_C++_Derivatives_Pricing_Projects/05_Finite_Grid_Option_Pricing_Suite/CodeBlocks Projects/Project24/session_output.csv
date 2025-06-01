@@ -1,0 +1,48 @@
+Price of the European Call Option = 2.51155
+Replication Strategy (Delta) = 0.540237
+Replication Strategy (y) = -51.5121
+Price of the European Put Option = 2.09575
+Replication Strategy (Delta) = -0.459763
+Replication Strategy (y) = 48.0721
+Price of the American Call Option = 2.51155
+Replication Strategy (Delta) = 0.540237
+Replication Strategy (y) = -51.5121
+Price of the American Put Option = 2.12636
+Replication Strategy (Delta) = -0.468929
+Replication Strategy (y) = 49.0193
+Price and Replication Strategy for Asian Call Option: H(0) = 1.49014, X = 0.63189, Y = -61.6989
+Precision = 0.0143575
+Price and Replication Strategy for Asian Put Option: H(0) = 1.25756, X = -0.542501, Y = 55.5077
+Precision = 0.0110688
+Price of the European Call Option = 2.51155
+Replication Strategy (Delta) = 0.540237
+Replication Strategy (y) = -51.5121
+Price of the European Put Option = 2.09575
+Replication Strategy (Delta) = -0.459763
+Replication Strategy (y) = 48.0721
+Price of the American Call Option = 2.51155
+Replication Strategy (Delta) = 0.540237
+Replication Strategy (y) = -51.5121
+Price of the American Put Option = 2.12636
+Replication Strategy (Delta) = -0.468929
+Replication Strategy (y) = 49.0193
+Price and Replication Strategy for Asian Call Option: H(0) = 1.48176, X = 0.535226, Y = -52.0408
+Precision = 0.0142956
+Price and Replication Strategy for Asian Put Option: H(0) = 1.24908, X = -0.522686, Y = 53.5176
+Precision = 0.010992
+Price of the European Call Option = 2.51155
+Replication Strategy (Delta) = 0.540237
+Replication Strategy (y) = -51.5121
+Price of the European Put Option = 2.09575
+Replication Strategy (Delta) = -0.459763
+Replication Strategy (y) = 48.0721
+Price of the American Call Option = 2.51155
+Replication Strategy (Delta) = 0.540237
+Replication Strategy (y) = -51.5121
+Price of the American Put Option = 2.12636
+Replication Strategy (Delta) = -0.468929
+Replication Strategy (y) = 49.0193
+Price and Replication Strategy for Asian Call Option: H(0) = 1.46731, X = 0.51691, Y = -50.2237
+Precision = 0.0140897
+Price and Replication Strategy for Asian Put Option: H(0) = 1.25624, X = -0.485646, Y = 49.8208
+Precision = 0.0111664

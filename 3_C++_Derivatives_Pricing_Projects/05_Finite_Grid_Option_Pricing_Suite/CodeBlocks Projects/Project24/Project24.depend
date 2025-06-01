@@ -1,0 +1,347 @@
+# depslib dependency file v1.0
+1326217664 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\bseq.cpp
+	"BSEq.h"
+	<cmath>
+
+1326217664 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\bseq.h
+	"ParabPDE.h"
+	"BSModel01.h"
+	"Option.h"
+
+1714491469 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\bsmodel01.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1326217664 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\option.h
+	"BSModel01.h"
+
+1326217662 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\explicitmethod.cpp
+	"ExplicitMethod.h"
+
+1326217662 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\explicitmethod.h
+	"FDMethod.h"
+
+1326217664 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\fdmethod.h
+	<vector>
+	"ParabPDE.h"
+
+1326217662 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\fdmethod.cpp
+	"FDMethod.h"
+
+1325601838 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\main24.cpp
+	<iostream>
+	"BSModel01.h"
+	"Option.h"
+	"BSEq.h"
+	"ExplicitMethod.h"
+
+1326217664 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\option.cpp
+	"Option.h"
+	<cmath>
+
+1326217664 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\code\bseq.cpp
+	"BSEq.h"
+	<cmath>
+
+1326217664 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\code\bseq.h
+	"ParabPDE.h"
+	"BSModel01.h"
+	"Option.h"
+
+1714491469 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\code\bsmodel01.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<vector>
+
+1719249605 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\code\option.h
+	"BSModel01.h"
+
+1326217662 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\code\explicitmethod.cpp
+	"ExplicitMethod.h"
+
+1326217662 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\code\explicitmethod.h
+	"FDMethod.h"
+
+1326217664 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\code\fdmethod.h
+	<vector>
+	"ParabPDE.h"
+
+1326217662 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\code\fdmethod.cpp
+	"FDMethod.h"
+
+1719251599 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\code\main24.cpp
+	<iostream>
+	"BSModel01.h"
+	"Option.h"
+	"BSEq.h"
+	"ExplicitMethod.h"
+
+1719251202 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\code\option.cpp
+	"Option.h"
+	<cmath>
+
+1326217664 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\code\parabpde.h
+
+1719253820 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\grid.cpp
+	"grid.h"
+
+1719253758 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\grid.h
+
+1719853877 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\main.cpp
+	<iostream>
+	"grid.h"
+	"option.h"
+	"BSModel.h"
+	"MCOption.h"
+
+1719254321 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\option.h
+	"grid.h"
+	<cmath>
+
+1719254358 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\option.cpp
+	"option.h"
+	<vector>
+	<iostream>
+
+1719422421 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\bsmodel.cpp
+	"BSModel.h"
+	"generator.h"
+	<cmath>
+
+1719422392 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\bsmodel.h
+
+1719422527 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\generator.h
+
+1719424823 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\generator.cpp
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"generator.h"
+	<ctime>
+
+1719853713 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\mcoption.cpp
+	"MCOption.h"
+	"BSModel.h"
+	"BSOption.h"
+	<cmath>
+	<iostream>
+
+1719852977 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\mcoption.h
+	"BSModel.h"
+	<cstdlib>
+	<ctime>
+
+1719422435 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\bsoption.h
+
+1719422449 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises\bsoption.cpp
+	<cmath>
+	"BSModel.h"
+	"BSOption.h"
+
+1719422421 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\bsmodel.cpp
+	"BSModel.h"
+	"generator.h"
+	<cmath>
+
+1719422392 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\bsmodel.h
+
+1719422527 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\generator.h
+
+1719422449 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\bsoption.cpp
+	<cmath>
+	"BSModel.h"
+	"BSOption.h"
+
+1719422435 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\bsoption.h
+
+1719424823 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\generator.cpp
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"generator.h"
+	<ctime>
+
+1719253820 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\grid.cpp
+	"grid.h"
+
+1719253758 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\grid.h
+
+1719424855 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\main.cpp
+	<iostream>
+	"grid.h"
+	"option.h"
+	"BSModel.h"
+	"MCOption.h"
+
+1719254321 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\option.h
+	"grid.h"
+	<cmath>
+
+1719423669 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\mcoption.h
+	"BSModel.h"
+	<cstdlib>
+	<ctime>
+
+1719422637 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\mcoption.cpp
+	"MCOption.h"
+	"BSModel.h"
+	"BSOption.h"
+	<cmath>
+	<iostream>
+
+1719254358 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\2. excercises 4\solution code excercises - copy (4)\option.cpp
+	"option.h"
+	<vector>
+	<iostream>
+
+1719422421 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\bsmodel.cpp
+	"BSModel.h"
+	"generator.h"
+	<cmath>
+
+1719932991 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\bsmodel.h
+
+1719422527 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\generator.h
+
+1719422449 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\bsoption.cpp
+	<cmath>
+	"BSModel.h"
+	"BSOption.h"
+
+1719422435 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\bsoption.h
+
+1719424823 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\generator.cpp
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"generator.h"
+	<ctime>
+
+1719253820 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\grid.cpp
+	"grid.h"
+
+1719253758 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\grid.h
+
+1720248146 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\main.cpp
+	<iostream>
+	"grid.h"
+	"option.h"
+	"replication.h"
+	"BSModel.h"
+	"MCOption.h"
+
+1720179138 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\option.h
+	"grid.h"
+	<cmath>
+	<algorithm>
+
+1719936497 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\mcoption.h
+	"BSModel.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<algorithm>
+	<vector>
+
+1720251633 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\mcoption.cpp
+	"MCOption.h"
+	"BSModel.h"
+	"BSOption.h"
+	<cmath>
+	<iostream>
+
+1720171908 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\option.cpp
+	"option.h"
+	<vector>
+	<iostream>
+
+1720178517 c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\replication.h
+	"grid.h"
+	"option.h"
+
+1720178523 source:c:\users\stoic\desktop\masters york\msc\semester 2\2. numericalmethods\part 4\3. assignment 4\code\replication.cpp
+	<iostream>
+	"grid.h"
+	"option.h"
+	"replication.h"
+
+1719422421 source:d:\_github\2 quantitative trading\3_c++\05_code\bsmodel.cpp
+	"BSModel.h"
+	"generator.h"
+	<cmath>
+
+1719932991 d:\_github\2 quantitative trading\3_c++\05_code\bsmodel.h
+
+1719422527 d:\_github\2 quantitative trading\3_c++\05_code\generator.h
+
+1719422449 source:d:\_github\2 quantitative trading\3_c++\05_code\bsoption.cpp
+	<cmath>
+	"BSModel.h"
+	"BSOption.h"
+
+1719422435 d:\_github\2 quantitative trading\3_c++\05_code\bsoption.h
+
+1719424823 source:d:\_github\2 quantitative trading\3_c++\05_code\generator.cpp
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"generator.h"
+	<ctime>
+
+1719253820 source:d:\_github\2 quantitative trading\3_c++\05_code\grid.cpp
+	"grid.h"
+
+1719253758 d:\_github\2 quantitative trading\3_c++\05_code\grid.h
+
+1748788746 source:d:\_github\2 quantitative trading\3_c++\05_code\main.cpp
+	<iostream>
+	"grid.h"
+	"option.h"
+	"replication.h"
+	"BSModel.h"
+	"MCOption.h"
+	"Logger.h"
+
+1720179138 d:\_github\2 quantitative trading\3_c++\05_code\option.h
+	"grid.h"
+	<cmath>
+	<algorithm>
+
+1720178517 d:\_github\2 quantitative trading\3_c++\05_code\replication.h
+	"grid.h"
+	"option.h"
+
+1748623137 d:\_github\2 quantitative trading\3_c++\05_code\mcoption.h
+	"BSModel.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<algorithm>
+	<vector>
+
+1748623163 source:d:\_github\2 quantitative trading\3_c++\05_code\mcoption.cpp
+	"MCOption.h"
+	"BSModel.h"
+	"BSOption.h"
+	<cmath>
+	<iostream>
+
+1720171908 source:d:\_github\2 quantitative trading\3_c++\05_code\option.cpp
+	"option.h"
+	<vector>
+	<iostream>
+
+1720178523 source:d:\_github\2 quantitative trading\3_c++\05_code\replication.cpp
+	<iostream>
+	"grid.h"
+	"option.h"
+	"replication.h"
+
+1748284757 d:\_github\2 quantitative trading\3_c++\05_code\logger.h
+	<fstream>
+	<iostream>
+	<sstream>
+
