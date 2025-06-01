@@ -36,11 +36,3 @@ This repository contains a curated collection of past projects that explore vari
 ## ⚠️ Note
 
 None of the strategies here are production-ready or currently profitable. For confidentiality and competitive reasons, my active strategies and infrastructure are not public.
-
-## 🛠️ My Current Focus
-
-I currently work on:
-
-- Deep learning-based models for regime-switching and volatility forecasting.
-- Hybrid frameworks combining statistics, signal processing, and machine learning.
-- Robust backtesting, risk analytics, and dynamic portfolio allocation engines.
